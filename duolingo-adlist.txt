@@ -1,0 +1,12 @@
+g.doubleclick.net
+googleads.g.doubleclick.net
+tpc.googlesyndication.com
+web.facebook.com
+config.unityads.unity3d.com
+configv2.unityads.unity3d.com
+unityads.unity3d.com
+httpkafka.unityads.unity3d.com
+pagead2.googlesyndication.com
+googletagservices.com
+googlesyndication.com
+s.dessaly.com
